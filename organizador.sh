@@ -1,3 +1,4 @@
+## Script mejorado con validación de directorios
 #!/bin/bash
 #Primero se le asigna un argumento a $1. En este caso se le debe asignar un directorio.
 echo "Directorio: $1"
